@@ -14,4 +14,4 @@
 ## app
 | systemd  | runit                               |  openrc  | s6rc   |  sysvinit |
 | :---     | :----                               |  :---    | :----  |  :---     |
-| -----    |                                     |  openrc  | s6rc   |  sysvinit |
+| [localectl]()    |                             |  openrc  | s6rc   |  sysvinit |
